@@ -30,4 +30,14 @@ g++ openmp_prime.cpp -fopenmp -o openmp_prime
 ## Challenges
 
 - Ensuring thread safety of the global counter.
+
+## Project 2 (OpenMP)
+
+The OpenMP version of the prime number counter is located in the `project2/` folder.  
+It includes performance comparisons and implementation details.
+
+➡️ See: [project2/README.md](./project2/README.md)
+
+
+
 - Choosing the right OpenMP directive (reduction).
